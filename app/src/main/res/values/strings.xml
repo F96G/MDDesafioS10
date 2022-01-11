@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesafioS10</string>
+    <string name="escribe_aqu">Escribe aquí</string>
+    <string name="textA1">El texto guardado es: %s</string>
+    <string name="textA2">El texto guardado en la vista anterior es: %s</string>
+    <string name="guardar_info">Guardar info</string>
+    <string name="lanzar_activity">Lanzar activity</string>
+</resources>
